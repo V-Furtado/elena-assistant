@@ -1,4 +1,8 @@
-# elena - A python Speech Assistant App
+# Elena 
+
+![Screen Shot 2022-03-06 at 10 37 52 PM](https://user-images.githubusercontent.com/50887339/156963735-f9cdf6a5-5f31-4b90-817b-0d0e0ede227e.png)
+
+A python Speech Assistant App
 
 ## Introduction 
 
