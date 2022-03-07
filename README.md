@@ -26,8 +26,8 @@ An example of typical questions can be as follows:
 Download the code and get started by running the following commands:
 ```
 git clone [repo]
-cd elena
-source venv/bin/activate
+cd elena-assistant
+. venv/bin/activate
 python main.py
 
 ```
