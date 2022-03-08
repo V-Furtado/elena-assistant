@@ -2,8 +2,6 @@
 
 ![Screen Shot 2022-03-06 at 10 37 52 PM](https://user-images.githubusercontent.com/50887339/156963735-f9cdf6a5-5f31-4b90-817b-0d0e0ede227e.png)
 
-A python Speech Assistant App
-
 ## Introduction 
 
 Elena is a python Speech Assistant application that allows users to make requests and generate responses based on collections of programmed functionalities. Elena can search google, youtube and answer some basic questions upon your request.   
