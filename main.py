@@ -89,14 +89,6 @@ def respond(voice_data):
         exit()
 
 
-# time.sleep(1)
-# elena_speak("How can I help you?")
-
-# while 1:
-#     voice_data = record_audio()
-#     respond(voice_data)
-
-
 def main():
     while True:
         time.sleep(1)
