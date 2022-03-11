@@ -41,5 +41,5 @@ pip install PyObjC
 
 ```
 ## Technologies
-- Speech recognition 
-- Google’s text-to-speech API
+- [Speech recognition](https://pypi.org/project/speech-recognition-fork/) 
+- [Google’s text-to-speech API](https://pypi.org/project/gTTS/)
